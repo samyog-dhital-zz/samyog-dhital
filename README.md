@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samyog-dhital
 - 👀 I’m interested in Web development especially related to (MERN)
 - 🌱 I’m currently learning React and Nodejs
-- 💞️ I’m open for freelancing stuffs as well meanwhile you can check my portfolio website. (Link in my github profile.)
+- 💞️ I’m open for freelancing stuffs as well meanwhile you can check my portfolio website. (www.samyogdhital.com.np)
 - 📫 You can contact me on my gmail : dhitalsamyog123@gmail.com
